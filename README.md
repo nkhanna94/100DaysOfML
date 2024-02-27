@@ -9,5 +9,7 @@ Welcome to my #100DaysOfML journey! In this repository, I'll be sharing my daily
 | Day | Topic | Blog |
 |-----|-------|------|
 |Day 1| Basics of ML | [Explanation Link](https://niharikakhanna.hashnode.dev/day-1-dive-unveiling-the-basics-of-machine-learning-100daysofml)
+|Day 2| Challenges in ML | [Explanation Link](https://niharikakhanna.hashnode.dev/day-2-dive-reflections-on-challenges-in-machine-learning)
+
 
 Feel free to explore my journey through the days and dive into the blog posts to learn more about each topic. Let's stay committed to learning and growing in the field of machine learning together!
