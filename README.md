@@ -6,10 +6,12 @@ Welcome to my #100DaysOfML journey! In this repository, I'll be sharing my daily
 
 ## Daywise Progress
 
-| Day | Topic | Blog |
-|-----|-------|------|
-|Day 1| Basics of ML | [Explanation Link](https://niharikakhanna.hashnode.dev/day-1-dive-unveiling-the-basics-of-machine-learning-100daysofml)
-|Day 2| Challenges in ML | [Explanation Link](https://niharikakhanna.hashnode.dev/day-2-dive-reflections-on-challenges-in-machine-learning)
+
+| Blog | Topic | Link | Project Link |
+|-----|-------|------|--------------|
+| Blog 1 | Basics of ML | [Click Me!](https://niharikakhanna.hashnode.dev/day-1-dive-unveiling-the-basics-of-machine-learning-100daysofml) | - |
+| Blog 2 | Challenges in ML | [Click Me!](https://niharikakhanna.hashnode.dev/day-2-dive-reflections-on-challenges-in-machine-learning) | - |
+| Blog 3 | Linear Regression in ML | [Click Me!](https://niharikakhanna.hashnode.dev/embarking-on-the-ml-journey-day-1-with-linear-regression) | - |
 
 
 Feel free to explore my journey through the days and dive into the blog posts to learn more about each topic. Let's stay committed to learning and growing in the field of machine learning together!
