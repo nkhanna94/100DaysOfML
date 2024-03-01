@@ -11,7 +11,7 @@ Welcome to my #100DaysOfML journey! In this repository, I'll be sharing my daily
 |-----|-------|------|--------------|
 | Blog 1 | Basics of ML | [Click Me!](https://niharikakhanna.hashnode.dev/day-1-dive-unveiling-the-basics-of-machine-learning-100daysofml) | - |
 | Blog 2 | Challenges in ML | [Click Me!](https://niharikakhanna.hashnode.dev/day-2-dive-reflections-on-challenges-in-machine-learning) | - |
-| Blog 3 | Linear Regression in ML | [Click Me!](https://niharikakhanna.hashnode.dev/embarking-on-the-ml-journey-day-1-with-linear-regression) | - |
+| Blog 3 | Linear Regression in ML | [Click Me!](https://niharikakhanna.hashnode.dev/embarking-on-the-ml-journey-day-1-with-linear-regression) |[HousePricePredictionModel](https://github.com/nkhanna94/100DaysOfML-house_price_prediction) |
 
 
 Feel free to explore my journey through the days and dive into the blog posts to learn more about each topic. Let's stay committed to learning and growing in the field of machine learning together!
