@@ -2,7 +2,8 @@
 
 Welcome to my #100DaysOfML journey! In this repository, I'll be sharing my daily learnings, projects, blogs, and more related to machine learning. Let's dive in and learn together!
 
-![100DaysOfML](https://github.com/nkhanna94/100DaysOfML/assets/118755402/e2be8c9c-0dbe-42da-a6d8-3ff87feb2e11)
+![100DaysOfML](![Regression (3)](https://github.com/nkhanna94/100DaysOfML/assets/118755402/a4493982-e431-4d5b-b9f5-3b1cdeec5ca7)
+)
 
 ## Daywise Progress
 
